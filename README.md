@@ -59,9 +59,7 @@ cv.putText(img, str(point), (x, y), cv.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 1
 ---
 
 ## **Demo**  
-<p align="center">
   ![Screenshot 2025-03-23 000634](https://github.com/user-attachments/assets/25898410-2439-4daa-a089-46c11d44abfb)
-</p>  
 
 ---
 
